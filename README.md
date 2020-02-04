@@ -49,3 +49,7 @@ Q9 Male VS Smoker
 ### Model Evaluation and Validation
 
 ### conclusion
+
+-------------------------------------------------------------
+i posted on medium 
+https://medium.com/@mo74m4d22/analysis-of-insurance-fcc9fcaa6d73?source=friends_link&sk=97dd5ad30330f3639c9a14e1199eb0f8
